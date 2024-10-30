@@ -1,7 +1,7 @@
 package itest
 
 import (
-	"github.com/btcsuite/btclog"
+	"github.com/btcsuite/btclog/v2"
 )
 
 var (
